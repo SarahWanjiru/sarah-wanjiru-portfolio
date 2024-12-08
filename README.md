@@ -45,7 +45,6 @@ If you're interested in creating or enhancing your own portfolio website, here a
 ## Acknowledgments
 A big thank you to Power Learn Project Instructors. Your support and guidance have made this project possible.
 
----
 
 Feel free to explore the project, provide feedback, or simply get inspired to create your portfolio site.
 
